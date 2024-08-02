@@ -46,9 +46,7 @@ If you find the dataset or code useful, please cite our papers:
 
 {}
 
-## Contributing
 
-We express our gratitude to the volunteers who participated in the data collection experiment. Thanks for Prof. Calvin Kuo's guidance on the data collection and arrangement. 
 
 <!-- ## License
 This project is licensed under the [MIT License](LICENSE). -->
